@@ -1,0 +1,10 @@
+using system;
+class asciii
+{
+public static void Main()
+{
+string str="I love india";
+Console.WriteLine("given string is :"+ str);
+
+}
+}

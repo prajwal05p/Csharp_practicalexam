@@ -1,0 +1,20 @@
+using system;
+class primeno
+{
+public static void Main()
+{
+Console.WriteLine("enter a no:");
+int no= int.Parse(Console.ReadLine());
+for(int i=1;i<number;i++)
+{
+if(number%i==0)
+{
+Console.WriteLine("No is prime");
+}
+else
+{
+Console.WriteLine("No is not prime");
+}
+}
+}
+}
